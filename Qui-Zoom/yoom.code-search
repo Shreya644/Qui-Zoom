@@ -1,0 +1,48 @@
+# Query: yoom
+# ContextLines: 1
+
+10 results - 6 files
+
+zoom-clone-main\package-lock.json:
+  1  {
+  2:   "name": "Qui-Zoom",
+  3    "version": "0.1.0",
+
+  7      "": {
+  8:       "name": "Qui-Zoom",
+  9        "version": "0.1.0",
+
+zoom-clone-main\package.json:
+  1  {
+  2:   "name": "Qui-Zoom",
+  3    "version": "0.1.0",
+
+zoom-clone-main\app\layout.tsx:
+  13  export const metadata: Metadata = {
+  14:   title: "QUI-ZOOM",
+  15    description: "Video calling App",
+
+  29              socialButtonsVariant: "iconButton",
+  30:             logoImageUrl: "/icons/Qui-Zoom-logo.svg",
+  31            },
+
+zoom-clone-main\app\(root)\(home)\layout.tsx:
+  7  export const metadata: Metadata = {
+  8:   title: 'UI_ZOOM',
+  9    description: 'A workspace for your team, powered by Stream Chat and Clerk.',
+
+zoom-clone-main\components\MobileNav.tsx:
+  31                height={32}
+  32:               alt="Qui-Zoom logo"
+  33              />
+  34:             <p className="text-[26px] font-extrabold text-white">QUI-ZOOM</p>
+  35            </Link>
+
+zoom-clone-main\components\Navbar.tsx:
+  14            height={32}
+  15:           alt="Qui-Zoom logo"
+  16            className="max-sm:size-10"
+
+  18          <p className="text-[26px] font-extrabold text-white max-sm:hidden">
+  19:           QUI-ZOOM
+  20          </p>
